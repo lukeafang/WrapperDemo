@@ -1,0 +1,3 @@
+LIBRARY	"ExternalWrapper"
+EXPORTS
+	HelloWorld
